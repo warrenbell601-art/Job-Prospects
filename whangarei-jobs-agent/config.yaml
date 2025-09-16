@@ -1,0 +1,10 @@
+# Filters for the Whangārei Jobs Agent
+region_regex: "(?i)\bWhang[āa]rei\b|Kamo|Tikipunga|Onerahi|Maunu|Raumanga|Morningside|Woodhill|Regent|Kensington|Otaika|Port\s+Whang[āa]rei|Marsden|Ruak[aā]k[aā]"
+# Keywords must appear in title or description (any one)
+keywords:
+  - production
+  - technical
+  - compliance
+  - health and safety
+max_results: 25
+email_to: "warrenbell601@gmail.com"
